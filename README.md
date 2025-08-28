@@ -35,8 +35,7 @@ iOS 端通过 PTP / PTP-IP 控制佳能 / 索尼 / 尼康相机：拍照、录�
 
  ✅ 兼容性与平台</br>
 	•	iOS / iPadOS：15.0 及以上（建议 16+）</br>
-	•	设备：</br>
-	•	USB-C 直连：仅在少数组合可行；iOS 对通用 USB 访问有限制，通常需厂商 SDK 或配件方案。推荐优先走 Wi-Fi/热点 方案</br>
+	•	USB-C 直连</br>
 	•	相机品牌与协议</br>
 	•	Canon：PTP/PTP-IP + 厂商扩展 OPCodes（LiveView/录像等）</br>
 	•	Sony：远程控制多走 Sony Camera Remote API（HTTP/JSON+MJPEG）；USB/MTP 控制覆盖有限</br>
